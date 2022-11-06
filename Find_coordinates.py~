@@ -1,0 +1,5 @@
+import csv
+
+
+
+file = open('to_add_coordinates.csv')
